@@ -1,0 +1,94 @@
+{
+    "statusCode": 200,
+    "message": "Data fetched successfully",
+    "data": [
+        {
+            "datasetid": 1,
+            "datasetcode": "RAINF",
+            "datasetdescription": "Rainfall",
+            "createdby": 1,
+            "createdon": "2024-10-25 14:26:04.892447",
+            "dataavailablefrom": "1961-01-01"
+        },
+        {
+            "datasetid": 2,
+            "datasetcode": "WATERLVL",
+            "datasetdescription": "River Water Level",
+            "createdby": 1,
+            "createdon": "2024-10-29 06:54:22.831327",
+            "dataavailablefrom": "1965-01-01"
+        },
+        {
+            "datasetid": 3,
+            "datasetcode": "SNOWFALL",
+            "datasetdescription": "Snowfall",
+            "createdby": 1,
+            "createdon": "2024-11-09 10:37:18.960788",
+            "dataavailablefrom": "1967-01-01"
+        },
+        {
+            "datasetid": 4,
+            "datasetcode": "WIND",
+            "datasetdescription": "Wind Direction",
+            "createdby": 1,
+            "createdon": "2024-11-12 05:38:34.274454",
+            "dataavailablefrom": "2000-01-01"
+        },
+        {
+            "datasetid": 5,
+            "datasetcode": "MT_TEMP",
+            "datasetdescription": "Temperature",
+            "createdby": 1,
+            "createdon": "2024-11-12 05:55:16.264889",
+            "dataavailablefrom": "2001-01-01"
+        },
+        {
+            "datasetid": 6,
+            "datasetcode": "HUMID",
+            "datasetdescription": "Relative Humidity",
+            "createdby": 1,
+            "createdon": "2024-11-18 10:20:55.449662",
+            "dataavailablefrom": "1998-01-01"
+        },
+        {
+            "datasetid": 7,
+            "datasetcode": "PRESS",
+            "datasetdescription": "Atmospheric Pressure",
+            "createdby": 1,
+            "createdon": "2024-11-19 08:19:06.440478",
+            "dataavailablefrom": "2002-01-01"
+        },
+        {
+            "datasetid": 8,
+            "datasetcode": "SOLAR_RD",
+            "datasetdescription": "Solar Radiation",
+            "createdby": 1,
+            "createdon": "2024-11-19 08:45:13.149419",
+            "dataavailablefrom": "2002-01-01"
+        },
+        {
+            "datasetid": 9,
+            "datasetcode": "DISCHARG",
+            "datasetdescription": "River Water Discharge",
+            "createdby": 1,
+            "createdon": "2024-11-21 11:57:31.421515",
+            "dataavailablefrom": "1956-01-01"
+        },
+        {
+            "datasetid": 10,
+            "datasetcode": "SEDIM",
+            "datasetdescription": "Suspended Sediment",
+            "createdby": 1,
+            "createdon": "2024-11-29 17:27:52.184699",
+            "dataavailablefrom": "1961-01-01"
+        },
+        {
+            "datasetid": 11,
+            "datasetcode": "GWATERLVL",
+            "datasetdescription": "Ground Water Level",
+            "createdby": 1,
+            "createdon": "2025-01-17 12:16:45.537785",
+            "dataavailablefrom": "1976-01-01"
+        }
+    ]
+}

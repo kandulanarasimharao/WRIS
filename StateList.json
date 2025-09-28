@@ -1,0 +1,166 @@
+{
+    "statusCode": 200,
+    "message": "Data fetched successfully",
+    "data": [
+        {
+            "statecode": "12",
+            "state": "Madhya Pradesh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "24",
+            "state": "Uttar Pradesh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "19",
+            "state": "Punjab",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "04",
+            "state": "Bihar",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "10",
+            "state": "Karnataka",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "28",
+            "state": "Uttarakhand",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "22",
+            "state": "Tamil Nadu",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "02",
+            "state": "Arunachal Pradesh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "13",
+            "state": "Maharashtra",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "11",
+            "state": "Kerala",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "27",
+            "state": "Jharkhand",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "23",
+            "state": "Tripura",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "20",
+            "state": "Rajasthan",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "18",
+            "state": "Odisha",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "01",
+            "state": "Andhra Pradesh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "09",
+            "state": "Jammu & Kashmir",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "45",
+            "state": "Delhi",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "29",
+            "state": "Telangana",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "05",
+            "state": "Goa",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "15",
+            "state": "Meghalaya",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "17",
+            "state": "Nagaland",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "06",
+            "state": "Gujarat",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "14",
+            "state": "Manipur",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "26",
+            "state": "Chhattisgarh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "03",
+            "state": "Assam",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "07",
+            "state": "Haryana",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "42",
+            "state": "Chandigarh",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "25",
+            "state": "West Bengal",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "43",
+            "state": "Dadra & Nagar Haveli",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "41",
+            "state": "Andaman & Nicobar",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "47",
+            "state": "Puducherry",
+            "datasetcode": "GWATERLVL"
+        },
+        {
+            "statecode": "08",
+            "state": "Himachal Pradesh",
+            "datasetcode": "GWATERLVL"
+        }
+    ]
+}
